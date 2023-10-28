@@ -1,0 +1,58 @@
+body{
+    margin-left: 50px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-right: 50px;
+}
+
+.Week{
+    background-color: rgb(207, 203, 203);
+    height: fit-content;
+    
+}
+
+.Container{
+    display: flex;
+    
+}
+.Lecture{
+    margin-left: 25px;
+}
+
+.Container2{
+    display: flex;
+    margin-top: 10px;
+
+}
+
+.Slides{
+    
+    background-color: rgb(222, 172, 235);
+    height: fit-content;
+}
+.LO{
+    background-color: burlywood;
+    height: fit-content;
+    margin-left: 20px;
+}
+.Resources{
+    background-color: lightpink;
+    height: fit-content;
+    margin-left: 20px;
+}
+.SampleQuestion{
+    background-color: rgb(163, 213, 161);
+    height: fit-content;
+    margin-left: 20px;
+}
+
+.ProjectInstruction{
+    background-color: rgb(133, 205, 244);
+    height: fit-content;
+    margin-left: 20px;
+}
+
+a{
+    color: #000000;
+    font-weight: 300;
+}
